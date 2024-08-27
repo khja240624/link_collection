@@ -4,7 +4,7 @@ addressList["Google Drive"] = "https://drive.google.com/drive/u/0/folders/1AiOac
 addressList["Github"] = "https://github.com/khja240624";
 addressList["Zoom"] = "https://zoom.us/j/7652500624?pwd=dndW4u3ViOzaV8482AiT3X7flowHXl.1";
 addressList["KH 정보교육원"] = "https://kh-academy.co.kr/";
-addressList["CodeTogether(Eclipse)"] = "";
+addressList["CodeTogether(Eclipse)"] = "https://live.codetogether.io/#/PFoAPW8OEANdR75RFcDcmW/sXgbkQuc8AvkPeQByIS1W3";
 addressList["CodeTogether(VSCode)"] = "";
 addressList["CodeTogether(DBeaver)"] = "";
 
