@@ -5,7 +5,7 @@ addressList["Github"] = "https://github.com/khja240624";
 addressList["Zoom"] = "https://zoom.us/j/7652500624?pwd=dndW4u3ViOzaV8482AiT3X7flowHXl.1";
 addressList["CodeTogether(Eclipse)"] = "https://live.codetogether.io/#/PFoAPW8OEANdR75RFcDcmW/aqKkk3afRre8hkFzhQUcY8";
 addressList["CodeTogether(VSCode)"] = "";
-addressList["CodeTogether(DBeaver)"] = "";
+addressList["CodeTogether(DBeaver)"] = "https://live.codetogether.io/#/KtBzidMi6p1zt9Xqdynanp/QSr3VFWnKwNydEnkrE4yvw";
 
 const btns = document.querySelectorAll('a.button');
 
