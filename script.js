@@ -5,7 +5,7 @@ addressList["Github"] = "https://github.com/khja240624";
 addressList["Zoom"] = "https://zoom.us/j/7652500624?pwd=dndW4u3ViOzaV8482AiT3X7flowHXl.1";
 addressList["KH 정보교육원"] = "https://kh-academy.co.kr/";
 addressList["CodeTogether(Eclipse)"] = "https://live.codetogether.io/#/xyCt8IX0McFbf1d6H6SkDx/iy2rH4Z3xVvxtBIMcsfboX";
-addressList["CodeTogether(VSCode)"] = "https://live.codetogether.io/#/fde26dab-f124-4297-a832-b2be8f4f9704/4yzwnqq7Qdin5P7IF5dFoQ";
+addressList["CodeTogether(VSCode)"] = "https://live.codetogether.io/#/fde26dab-f124-4297-a832-b2be8f4f9704/sXbVSo4sU95TeQ502mm5wm";
 addressList["CodeTogether(DBeaver)"] = "";
 
 const btns = document.querySelectorAll('a.button');
