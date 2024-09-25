@@ -4,8 +4,8 @@ addressList["Google Drive"] = "https://drive.google.com/drive/u/0/folders/1AiOac
 addressList["Github"] = "https://github.com/khja240624";
 addressList["Zoom"] = "https://zoom.us/j/7652500624?pwd=dndW4u3ViOzaV8482AiT3X7flowHXl.1";
 addressList["KH 정보교육원"] = "https://kh-academy.co.kr/";
-addressList["CodeTogether(Eclipse)"] = "https://live.codetogether.io/#/xyCt8IX0McFbf1d6H6SkDx/bKYvqokV4NFuXw3EUFifEv";
-addressList["CodeTogether(VSCode)"]  = "https://live.codetogether.io/#/fde26dab-f124-4297-a832-b2be8f4f9704/kg504g6LoL6lTwTsnFhUrP";
+addressList["CodeTogether(Eclipse)"] = "https://live.codetogether.io/#/xyCt8IX0McFbf1d6H6SkDx/cEEJ6p3CIsXPjAkJM3Cilo";
+addressList["CodeTogether(VSCode)"]  = "https://live.codetogether.io/#/fde26dab-f124-4297-a832-b2be8f4f9704/dKHbcBQ57Dkw0x0mjOSo3A";
 addressList["CodeTogether(DBeaver)"] = "";
 
 const btns = document.querySelectorAll('a.button');
