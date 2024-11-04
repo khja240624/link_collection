@@ -5,7 +5,7 @@ addressList["Github"] = "https://github.com/khja240624";
 addressList["Zoom"] = "https://zoom.us/j/7652500624?pwd=dndW4u3ViOzaV8482AiT3X7flowHXl.1";
 addressList["KH 정보교육원"] = "https://kh-academy.co.kr/";
 addressList["CodeTogether(Eclipse)"] = "";
-addressList["CodeTogether(VSCode)"]  = "https://live.codetogether.io/#/afca7b2f-c0c2-4f74-be60-f3fe0686f1e5/OArZWG6jkN0m7Nn1jccBe8";
+addressList["CodeTogether(VSCode)"]  = "https://live.codetogether.io/#/a255191c-52a0-4f83-867c-b96081e59725/HOfwo6SIOsnMuAcIjQJRVW";
 addressList["ERD CLOUD"] = "https://www.erdcloud.com/d/EZYqkPxgWt249r5MA";
 
 const btns = document.querySelectorAll('a.button');
